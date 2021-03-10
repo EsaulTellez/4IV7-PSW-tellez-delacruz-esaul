@@ -24,5 +24,5 @@
  }
  article, aside{
      width:40%;
-    display: inine-block;
+    display: inline-block;
  }
