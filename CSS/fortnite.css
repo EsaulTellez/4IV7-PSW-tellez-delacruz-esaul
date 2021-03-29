@@ -1,0 +1,21 @@
+body{
+    font-family: 'Tw Cen MT', 'Geneva', Tahoma, sans-serif;
+    background-image: url(/Grafico/fondo2.png);
+    color: white;
+    text-align: center;
+}
+nav{
+font-size: 5rem;
+text-align: center;
+
+}
+iframe{
+    width: 70rem;
+    height: 40rem;
+    
+}
+footer{
+    text-align: right;
+    padding-top: 10rem;
+    font-size: 2rem;
+}

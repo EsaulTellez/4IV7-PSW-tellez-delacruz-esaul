@@ -21,13 +21,13 @@
             <tr>
                 <td class="td_up">introduce la cantidad a invertir:</td>
                 <td class="td_down"><input type="text" cantidad="cantidad"
-                onkeypress="">
+                onkeypress="return validarn(event)">
                 </td>
             </tr>
             <tr>
                 <td></td>
                 <td class="td_down"><input type="button" value="interes" nombre="enviar"
-                    onclick="">
+                    onclick="interes()">
 
                 </td>
                 
@@ -40,12 +40,14 @@
             </tr>
             <tr>
                 <td ></td>
-                <td class="td_down"><input type="button" name="borrar" value="borrar"
-                    onclick=""></td>
+                <td class="td_down"><input type="button" name="borrard" value="borrar"
+                    onclick="borrar()"></td>
                 
             </tr>
         </table>
-
+<a href="index.html">regresar a la principal</a>
+<br>
+<a href="problema01.html">problema01</a>
     </form>
 
 </body>

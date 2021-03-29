@@ -1,0 +1,37 @@
+nav{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Tw Cen MT', Times, serif;
+    padding-top: 3rem;
+}
+body{
+    background-image:url(/Grafico/fondo.jpg);
+    background-repeat: repeat-x;
+    justify-content: unset;
+    text-align: center;
+    
+
+}
+img{
+    align-items: center;
+    height: 20rem;
+    width: 30rem;
+    padding-top: 10rem;
+
+}
+.fornite{
+    height: 20rem;
+    width: 40rem;
+}
+a{
+    text-align: center;
+    font-size: 1.5rem;
+    justify-content: unset;
+    padding-top: 2rem;
+}
+footer{
+    text-align: center;
+    padding-top: 20rem;
+    color: black;
+}
