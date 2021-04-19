@@ -85,3 +85,13 @@ function problema2(){
 
 
 //el tres queda de tarea wiiiiiiiiiii y hago el 1 wiiiiiiiiiii
+function encontrarPalabra(str) {
+    let words = str.split(",");
+    let encontrarPalabra = "";
+    for(let word of words) {
+      if(word.length > encontrarPalabra.length) {
+        encontrarPalabra = word;
+    }}
+    return myLongestWord;  
+  }
+  console.log(encontrarPalabra("Hi Michael ! It's nice to meet you !"))
